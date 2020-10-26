@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <p>
   
   <h1 align="center">About me<br>
-  - 🔭 I’m currently working on a Discord Bot with a dashboard interface
-- 🌱 I’m currently learning React
-- ⚡ Fun fact: I usually don't like joking around
+  <h3> 🔭 I’m currently working on a Discord Bot with a dashboard interface<br> </h3>
+  <h3> 🌱 I’m currently learning React<br> </h3>
+  <h3> ⚡ Fun fact: I usually don't like joking around<br> </h3>
     </h1>
     
 
