@@ -1,5 +1,10 @@
 ### Hey, I'm M2937 (a.k.a. Codezas)
 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+</p>
+
 <!--
 **M2937/M2937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
