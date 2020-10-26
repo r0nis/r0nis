@@ -18,18 +18,23 @@
 Here are some ideas to get you started:
 
 -->
-### About me
-- 🔭 I’m currently working on a Discord Bot with a dashboard interface
+
+<p>
+<h1 align="center><b>About me</b></h1>
+  <h3 align="center"><b>- 🔭 I’m currently working on a Discord Bot with a dashboard interface
 - 🌱 I’m currently learning React
-- ⚡ Fun fact: I usually don't like joking around
+- ⚡ Fun fact: I usually don't like joking around</b></h3>
+</p>
+
 
 
 
 <br>
 
-### Languages and Tools: 
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### 
+<p>
+<h1 align="center><b>Languages and Tools: </b></h1>
+  <<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -54,6 +59,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
+</p>
+
+
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M2937&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="M2937's Github Stats">
