@@ -20,10 +20,17 @@ Here are some ideas to get you started:
 -->
 
 <p>
-<h1 align="center><b>About me</b></h1>
-  <h3 align="center"><b>- 🔭 I’m currently working on a Discord Bot with a dashboard interface
+  
+  <h1 align="center">About me<br>
+  - 🔭 I’m currently working on a Discord Bot with a dashboard interface
 - 🌱 I’m currently learning React
-- ⚡ Fun fact: I usually don't like joking around</b></h3>
+- ⚡ Fun fact: I usually don't like joking around
+    </h1>
+    
+
+                    
+                    
+                    
 </p>
 
 
