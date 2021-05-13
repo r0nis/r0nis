@@ -7,7 +7,7 @@
 </p>
 
 <p> 
-  <h1 align="center">Visitor count<br>
+  <h1 align="center">Visitor count (Huge thanks to Lioha#0001, motiejusvin#9800. Robke96#2006 for ruining my visitor count)<br>
   <img src="https://profile-counter.glitch.me/M2937/count.svg" />
     </h1>
 </p>
