@@ -7,7 +7,7 @@
 </p>
 
 <p> 
-  <h1 align="center">Visitor count: 0<br>
+  <h1 align="center">Visitor count: 1<br>Contact me on Discord Codezas#9669 to add +1 to the visitor counter.
     </h1>
 </p>
 
